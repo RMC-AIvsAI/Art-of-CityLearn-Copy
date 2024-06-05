@@ -1,0 +1,10 @@
+cost_function,baseline
+annual_peak_average,1.062893307619958
+carbon_emissions_total,1.0076485647221134
+cost_total,1.0050173978834367
+daily_one_minus_load_factor_average,1.0072940333714109
+daily_peak_average,1.0393315462182298
+electricity_consumption_total,1.0079133350711738
+monthly_one_minus_load_factor_average,1.0049264326542167
+ramping_average,1.0999520009896435
+zero_net_energy,1.011215958673036
