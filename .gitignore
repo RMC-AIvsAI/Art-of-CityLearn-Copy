@@ -1,0 +1,38 @@
+For Shane/action-observation space.png
+For Shane/CitylLearn Challenge 2022 Phase 2 Building 6 Actions.csv
+For Shane/CitylLearn Challenge 2022 Phase 2 Building 6 observations.csv
+For Shane/CitylLearn Challenge 2022 Phase 2 Building 6 PPO Actor.pth
+For Shane/notes.txt
+.vscode/launch.json
+images/Density Plot of Normalized Distance Between Original and Adversarial Observations During Optimal Targeted BB Attack.png
+images/distplot helpful targeted attack.png
+unsuccessful/ARTtest 1d actions.ipynb
+unsuccessful/ARTtest.ipynb
+unsuccessful/bkp ARTtest 1d actions.ipynb
+unsuccessful/Train discrete A2C.ipynb
+unsuccessful/Train discrete DQN.ipynb
+unsuccessful/Train_A2C.py
+unsuccessful/logs/Phase1/SAC/default_SAC_citylearn_challenge_2022_phase_1_20_1/events.out.tfevents.1693685624.DESKTOP-AU8DD70.4016.0
+Karla/Models/3-15-13_PPOc_citylearn_challenge_2022_phase_2_('Building_6',)_gSDE_norm_space_SolarPenaltyReward_deep_net_256_1/events.out.tfevents.vents.out.tfevents.1710524135.tensorbook-a1.743799.0
+Karla/Models/3-19-7_PPOc_citylearn_challenge_2022_phase_2_('Building_6',)_gSDE_norm_space_SolarPenaltyReward_deep_net_256_1/events.out.tfevents.1ents.out.tfevents.1710846302.tensorbook-a1.1314081.0
+Karla/Models/3-26-5_PPOc_citylearn_challenge_2022_phase_2_('Building_6',)_gSDE_norm_space_SolarPenaltyReward_deep_net_256_1/events.out.tfevents.1ents.out.tfevents.1711445195.tensorbook-a1.2341473.0
+Karla/Models/4-2-11_PPOc_citylearn_challenge_2022_phase_2_('Building_6',)_gSDE_norm_space_SolarPenaltyReward_deep_net_256_1/events.out.tfevents.1ents.out.tfevents.1712071018.tensorbook-a1.3417395.0
+Karla/Models/3-11-13_PPOc_citylearn_challenge_2022_phase_2_('Building_6',)_gSDE_norm_space_SolarPenaltyReward_deep_net_256_1/events.out.tfevents.1710179612.tensorbook-a1.52113.0
+Karla/Models/3-11-13_PPOc_citylearn_challenge_2022_phase_2_('Building_6',)_gSDE_norm_space_SolarPenaltyReward_deep_net_256_2/events.out.tfevents.1710179732.tensorbook-a1.52377.0
+Karla/Models/3-11-16_PPOc_citylearn_challenge_2022_phase_2_('Building_6',)_gSDE_norm_space_SolarPenaltyReward_deep_net_256_1/events.out.tfevents.1710187920.tensorbook-a1.66590.0
+Karla/Models/3-12-10_PPOc_citylearn_challenge_2022_phase_2_('Building_6',)_gSDE_norm_space_SolarPenaltyReward_deep_net_256_1/events.out.tfevents.1710254236.tensorbook-a1.278323.0
+Karla/Models/3-13-11_PPOc_citylearn_challenge_2022_phase_2_('Building_6',)_gSDE_norm_space_SolarPenaltyReward_deep_net_256_1/events.out.tfevents.1710342469.tensorbook-a1.431994.0
+Karla/Models/3-15-13_PPOc_citylearn_challenge_2022_phase_2_('Building_6',)_gSDE_norm_space_SolarPenaltyReward_deep_net_256_1/events.out.tfevents.1710524135.tensorbook-a1.743799.0
+Karla/Models/3-19-7_PPOc_citylearn_challenge_2022_phase_2_('Building_6',)_gSDE_norm_space_SolarPenaltyReward_deep_net_256_1/events.out.tfevents.1710846302.tensorbook-a1.1314081.0
+Karla/Models/3-26-5_PPOc_citylearn_challenge_2022_phase_2_('Building_6',)_gSDE_norm_space_SolarPenaltyReward_deep_net_256_1/events.out.tfevents.1711445195.tensorbook-a1.2341473.0
+Karla/Models/4-2-11_PPOc_citylearn_challenge_2022_phase_2_('Building_6',)_gSDE_norm_space_SolarPenaltyReward_deep_net_256_1/events.out.tfevents.1712071018.tensorbook-a1.3417395.0
+Karla/Models/4-4-8_PPOc_citylearn_challenge_2022_phase_2_('Building_6',)_gSDE_norm_space_SolarPenaltyReward_deep_net_256_1/events.out.tfevents.1712234079.tensorbook-a1.3697528.0
+Logs/Phase1/PPO/optuna1_PPO_citylearn_challenge_2022_phase_2_Building_6_10_bins_300_1/events.out.tfevents.1694628200.DESKTOP-AU8DD70.1168.0
+default SAC 500 norm space results/TAINTED/ASRs.csv
+default SAC 500 norm space results/TAINTED/KPIs.csv
+default SAC 500 norm space results/TAINTED/uACG binary SAC a-obs.csv
+default SAC 500 norm space results/TAINTED/uACG binary SAC adv a-obs.csv
+default SAC 500 norm space results/TAINTED/uACG binary SAC parameters.json
+default SAC 500 norm space results/TAINTED/uBB binary SAC CW a-obs.csv
+default SAC 500 norm space results/TAINTED/uBB binary SAC CW adv a-obs.csv
+default SAC 500 norm space results/TAINTED/uBB binary SAC CW parameters.json
