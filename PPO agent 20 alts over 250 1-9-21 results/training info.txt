@@ -1,0 +1,13 @@
+constants:
+    BINS = 20
+    N_ALT = 10
+    ALT_EPISODES = 20
+    PRE_TRAINING_EPISODES = 50
+    EVAL_PER_ALT = 1
+Agent:
+    policy_kwargs = dict(net_arch=[256, 256])
+Adversary:
+    mask=np.arange(6,31)
+    max_mean_diff
+    B=ATLA.BScaledSum,
+    action_space=normalized_a_space,

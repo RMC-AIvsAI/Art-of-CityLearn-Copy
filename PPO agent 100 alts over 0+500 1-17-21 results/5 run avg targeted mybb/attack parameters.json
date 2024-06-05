@@ -1,0 +1,1 @@
+{"norm": Infinity, "targeted": true, "overshoot": 1.1, "steps": 1000, "lr": 0.001, "lr_decay": 0.5, "lr_num_decay": 20, "momentum": 0.8, "binary_search_steps": 10, "init_size": 1000000, "batch_size": 1000}
