@@ -1,0 +1,18 @@
+name: CityLearnART
+channels:
+  - defaults
+dependencies:
+  - setuptools==66
+  - ipywidgets
+  - pytorch==1.12.1
+  - python=3.10
+  - torchaudio
+  - numpy=1.23.5
+  - cudatoolkit=11.6
+  - torchvision==0.13.1
+  - wheel[version='<0.40']
+  - tensorboard
+  - jupyter_client[version='<8']
+  - notebook
+  - pyzmq[version='<25']
+prefix: C:\Users\Broda-Milian\anaconda3\envs\CityLearnART
